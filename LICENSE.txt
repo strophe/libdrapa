@@ -1,0 +1,5 @@
+libdrapa - libstrophe extension library
+Copyright (C) Steffen Jaeckel <jaeckel-floss@eyet-services.de>
+
+This program is dual licensed under the MIT and GPLv3 licenses.
+Please the files MIT-LICENSE.txt and GPL-LICENSE.txt for details.
